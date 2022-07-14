@@ -1,0 +1,179 @@
+!SESSION 2022-07-14 01:01:12.016 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-07-14 01:04:19.770
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-07-14 01:04:19.770
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@103e9972,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75dbe490,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY Activator 1 0 2022-07-14 01:10:17.549
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:10:26.723
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:10:40.210
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:10:43.762
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY org.eclipse.ui 2 2 2022-07-14 01:10:51.742
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2022-07-14 01:13:27.088
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:13:44.635
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:13:46.550
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:14:03.031
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:14:16.595
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:17:29.288
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:17:40.244
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:17:51.303
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:18:18.284
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:18:37.902
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:18:58.069
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:01.366
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:04.028
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:05.098
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:26.089
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-07-14 01:19:26.754
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:853)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:831)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:604)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:779)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.handleTreeExpand(AbstractTreeViewer.java:1554)
+	at org.eclipse.jface.viewers.TreeViewer.handleTreeExpand(TreeViewer.java:889)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$3.treeExpanded(AbstractTreeViewer.java:1566)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:136)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5879)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1427)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1453)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1436)
+	at org.eclipse.swt.widgets.Tree.gtk_test_expand_row(Tree.java:2638)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2345)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6138)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1567)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4596)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY Activator 1 0 2022-07-14 01:19:27.517
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:50.599
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:19:51.274
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:20:19.622
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:20:21.221
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:20:22.019
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:20:23.147
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-14 01:20:34.339
+!MESSAGE Has main method computation for project 'backend'
