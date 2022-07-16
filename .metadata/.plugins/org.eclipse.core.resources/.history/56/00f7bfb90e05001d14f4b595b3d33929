@@ -1,0 +1,5 @@
+package com.devmam.dsmeta.services;
+
+public class SaleService {
+
+}
