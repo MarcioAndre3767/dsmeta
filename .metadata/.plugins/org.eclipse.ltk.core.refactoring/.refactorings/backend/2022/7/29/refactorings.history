@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.devmam.dsmeta.services.SMSService&apos; to &apos;SmsService&apos;&#x0A;- Original project: &apos;backend&apos;&#x0A;- Original element: &apos;com.devmam.dsmeta.services.SMSService&apos;&#x0A;- Renamed element: &apos;com.devmam.dsmeta.services.SmsService&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SMSService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.devmam.dsmeta.services{SMSService.java[SMSService" matchStrategy="1" name="SmsService" qualified="false" references="true" similarDeclarations="false" stamp="1657985558630" textual="false" version="1.0"/>
+</session>

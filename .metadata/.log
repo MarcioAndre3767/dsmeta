@@ -527,3 +527,174 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2022-07-16 11:26:21.471
 !MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:19.799
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:33.515
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:33.517
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:33.521
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:33.522
+!MESSAGE buffering callback sts4.classpath.bxSusNHb backend false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:33.529
+!MESSAGE executing callback sts4.classpath.bxSusNHb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:33.597
+!MESSAGE executing callback sts4.classpath.bxSusNHb SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-07-16 12:29:40.786
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:41.984
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:43.685
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:47.788
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:29:52.432
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:52.438
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:52.447
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:52.468
+!MESSAGE buffering callback sts4.classpath.bxSusNHb backend false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:52.469
+!MESSAGE executing callback sts4.classpath.bxSusNHb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:52.982
+!MESSAGE executing callback sts4.classpath.bxSusNHb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:55.045
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:55.068
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:55.077
+!MESSAGE buffering callback sts4.classpath.bxSusNHb backend false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:55.078
+!MESSAGE executing callback sts4.classpath.bxSusNHb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-16 12:29:55.129
+!MESSAGE executing callback sts4.classpath.bxSusNHb SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-07-16 12:29:56.116
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:30:45.013
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:31:25.622
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:31:25.903
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:31:57.031
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:31:57.965
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:32:38.606
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:32:39.405
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:34:04.889
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:34:05.561
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:37:37.127
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:37:37.774
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:37:38.671
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:38:38.086
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:38:38.682
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:39:05.000
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:39:05.091
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:43:41.162
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-07-16 12:48:33.694
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-07-16 12:52:34.303
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:52:37.863
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:52:39.571
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:52:41.278
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:57:16.081
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 12:57:16.767
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:01:46.161
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:01:49.390
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:01:49.491
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:03:26.476
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:03:27.132
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:09:02.558
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2022-07-16 13:09:03.307
+!MESSAGE Has main method computation for project 'backend'
