@@ -1,0 +1,5 @@
+package com.devmam.dsmeta.entities;
+
+public class Sale {
+
+}
